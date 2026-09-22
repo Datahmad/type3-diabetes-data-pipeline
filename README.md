@@ -39,3 +39,12 @@ A high-performance, vectorized CLI data cleaning engine built with Python, Panda
 pandas
 numpy
 tqdm
+```
+
+### How to Run
+1. Download `healthquest_cleaner.py`.
+2. Place your raw hospital `.csv` dataset in the **same folder** as the script.
+3. Open your terminal/command prompt in that folder and run:
+   ```bash
+   python healthquest_cleaner.py
+   ```
