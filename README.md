@@ -41,6 +41,9 @@ numpy
 tqdm
 ```
 
+### Dataset Access
+* **Raw Dataset:** Download the raw hospital dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008).
+
 ### How to Run
 1. Download `healthquest_cleaner.py`.
 2. Place your raw hospital `.csv` dataset in the **same folder** as the script.
